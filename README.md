@@ -1,0 +1,2 @@
+# quotegenarator
+AI Quote Generator
